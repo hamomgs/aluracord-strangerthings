@@ -1,6 +1,7 @@
 # Projeto AluraCord 
 
 Elaborado pela imersão React, proporcionado pela [Alura](https://www.alura.com.br/).
+Tema escolhido: Stranger Things
 
 ## Professores 👨🏽‍🏫
 - [Mario Souto](https://www.linkedin.com/in/omariosouto/)
